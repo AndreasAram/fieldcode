@@ -142,6 +142,10 @@ img.post-img {
   margin-bottom: 10px;
 }
 
+.sidebar-content img{
+  width: 100%;
+}
+
 /* Simple post section */
 
 section.simple-posts {

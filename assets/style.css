@@ -157,7 +157,7 @@ section.simple-posts {
   margin-bottom: 20px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 991px) {
   .hero h1 {
     font-size: 70px;
   }
